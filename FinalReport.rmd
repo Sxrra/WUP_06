@@ -173,6 +173,8 @@ fisherXY(mydata$cappun,mydata$race)
 ```
  
 
+The Fisher test shows us that the black and other group are in fact different. It also shows that the white and black group are different as well. It doesn't show any difference between the other and the white groups.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
