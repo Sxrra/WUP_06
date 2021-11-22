@@ -45,7 +45,7 @@ If not, then whose view differs from whom??
 
 
 
-## Now with less data (more variables)
+## Now with more data (less variables)
 
 ```{r}
 dd2 <- mydata %>% group_by(race,cappun) %>% summarize(count=n()) %>% mutate(prcnt=count/sum(count))
@@ -63,6 +63,8 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+
+According to the graph, black people oppose capitol punishment than favoring it. White and all other races favor capitol punishment more percentage wise.
 
 ### Numerical Descriptive Results
 
