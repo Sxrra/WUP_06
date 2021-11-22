@@ -63,6 +63,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+The data illustrates that the black people has equal percentage of people in favor or oppose capitol punishment. It also shows that the white and other races favor capitol punishment at almost an equal percentage.
 
 ### Numerical Descriptive Results
 
