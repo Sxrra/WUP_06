@@ -178,3 +178,6 @@ fisherXY(mydata$cappun,mydata$race)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+Because we used more data, the Fisher XY test was able to show us that the different tests groups are in fact different from each other. The white and black groups are different, as well as white and the other group, in addition to the black and the other group.
