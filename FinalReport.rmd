@@ -82,6 +82,10 @@ colPerc(table2)
 ```
 
 
+This table reaffirms our percentages, 68% of the white people are in favor, 46% for black people, and 55% for all other races. 32% of white people, 54% of black people, and 44% of all other race oppose of capitol punsishment.
+
+
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -168,6 +172,8 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+ 
+ Because we used more data, the Fisher XY test was able to show us that the different tests groups are in fact different from each other. The white and black groups are different, as well as white and the other group, in addition to the black and the other group.
 
 # Discussion and Conclusion
 
